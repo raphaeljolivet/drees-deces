@@ -30,6 +30,38 @@ D'autres facteurs de confusion peuvent néamoins subsister:
 
 * **Transmission** : Cette étude ne considère pas l'effet de la vaccination sur la transmission ([évalué à 40% environ](https://www.france24.com/en/live-news/20211124-vaccines-reduce-covid-transmission-by-40-who)). L'ignorance de cet tend à sous estimer l'impact positif de la vaccination.
 
+# Résultats 
+
+Au total, la vaccination a permis d'éviter plus de 27000 décès depuis juin 2021. 
+Sur les 8400 décès répertoriés par la DREES sur cette période, plus de la moitié (4800) auraient pu etre évités par une couverture vaccinale complète. 
+
+
+## Graphes
+
+### Décès par tranche d'âge et statut vaccinal
+
+![](res/deces.png)
+
+### Décès par tranche d'âge et statut vaccinal, normalisés pour 1 million d'individus
+
+![](res/deces_ratios.png)
+
+### Scenarios
+
+![](res/scenarios.png)
+
+## Tableau
+
+| age       | décès non-vax  | décès vax  | décès si 0% vax | décès si 100% vax | décès évités | décès évitables |
+|-----------|----------------|------------|-----------------|-------------------|--------------|-----------------|
+| [0,19]    | 11             | 2          | 13              | 10                | 0            | 2               |
+| [20,39]   | 85             | 22         | 277             | 32                | 169          | 75              |
+| [40,59]   | 563            | 163        | 2524            | 239               | 1797         | 487             |
+| [60,79]   | 2249           | 1112       | 15881           | 1300              | 12520        | 2061            |
+| [80;+]    | 2483           | 1774       | 17574           | 2057              | 13316        | 2199            |
+| **Total** | 5391           | 3073       | 36269           | 3638              | **27802**    | **4824**        |
+
+
 # Code 
 
 Le code est disponible sur Github :

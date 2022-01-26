@@ -1,9 +1,9 @@
-# Analyse des décès covid par statut vaccinal 
+# Analyse des décès covid en hopital, par statut vaccinal 
 
 
 ## Résumé
 
-Cette feuille de calcul [Jupyter](https://jupyter.org/) analyse les données de décès de la DREES, par statut vaccinal et par âge, et tente d'évaluer les décès évités par la vaccination, et ceux qui auraient pu l'être avec une couverture vaccinale complète.
+Cette feuille de calcul [Jupyter](https://jupyter.org/) analyse les données de décès de la DREES par statut vaccinal et par âge, et tente d'évaluer les décès évités par la vaccination, et ceux qui auraient pu l'être avec une couverture vaccinale complète.
 
 
 ## Données

@@ -20,6 +20,8 @@ Il est alors possible de simuler des scénarios de couverture vaccinale (0% et 1
 
 ## Limitations
 
+Ces données ne concernent que les décès reportés par la DREES, c'est à dire uniquement les décès en hopital et pas, par exemple, dans dans les EPHAD.
+
 Ces calculs reposent sur l'hypothèse que la différence de mortalité des groupes vaccinés et non-vaccinés dépend essentiellement de leur statut vaccinal. Le facteur de confusion "âge" est pris en compte par la strafification par âge déjà appliquée par la DREES. 
 
 D'autres facteurs de confusion peuvent néamoins subsister:

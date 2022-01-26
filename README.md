@@ -32,8 +32,8 @@ D'autres facteurs de confusion peuvent néamoins subsister:
 
 # Résultats 
 
-Au total, la vaccination a permis d'éviter plus de 27000 décès depuis juin 2021. 
-Sur les 8400 décès répertoriés par la DREES sur cette période, plus de la moitié (4800) auraient pu etre évités par une couverture vaccinale complète. 
+Au total, la vaccination a permis d'éviter plus de 38000 décès depuis juin 2021. 
+Sur les 14200 décès répertoriés par la DREES sur cette période, la moitié (7100) auraient pu etre évités par une couverture vaccinale complète. 
 
 
 ## Graphes
